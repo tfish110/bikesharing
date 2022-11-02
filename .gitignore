@@ -1,3 +1,7 @@
+# Original csv; ignoring because too big for both csv's to go to Github
+
+201908-citibike-tripdata.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
