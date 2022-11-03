@@ -1,6 +1,7 @@
 # Original csv; ignoring because too big for both csv's to go to Github
 
 201908-citibike-tripdata.csv
+citibike_df_dataeteime.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
